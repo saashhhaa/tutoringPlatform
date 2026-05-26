@@ -6,7 +6,7 @@ const studentsData = [
     name: 'Sophia',
     startScore: '1080',
     finalScore: '1510!',
-    imgUrl: './students/stud1.jpg' // Замени на путь к реальному фото
+    imgUrl: './students/stud1.jpg' 
   },
   {
     name: 'Isaad ',
@@ -17,7 +17,7 @@ const studentsData = [
   {
     name: 'Akylai',
     startScore: '600',
-    finalScore: '1300!', // Частично скрыто на фото, предположим 1550
+    finalScore: '1300!', 
     imgUrl: './students/stud3.jpg'
   }
 ];

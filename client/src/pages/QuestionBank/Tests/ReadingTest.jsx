@@ -25,7 +25,7 @@ export const ReadingTest = () => {
     setAiLoading(true);
 
     try {
-      const res = await fetch(`http://localhost:3005/api/chat`, {
+      const res = await fetch(`https://tutoring-ai-z3hm.onrender.com/api/chat`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

@@ -1,4 +1,4 @@
-// export const API_URL = 'http://localhost:3000';
+// export const API_URL = 'https://tutoring-backend-djhi.onrender.com';
 
 // export const authFetch = (url, options = {}) => {
 //   const token = localStorage.getItem('jwt');
@@ -12,7 +12,7 @@
 //   });
 // };
 
-export const API_URL = "http://localhost:3000";
+export const API_URL = "https://tutoring-backend-djhi.onrender.com";
 
 export const authFetch = (url, options = {}) => {
   const token = localStorage.getItem("jwt");
